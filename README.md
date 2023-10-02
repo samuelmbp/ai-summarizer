@@ -1,6 +1,5 @@
 # AI Article Summarizer
 
-Article Summarizer Application using OpenAI's GPT model.
 Simplify your reading with Sumz, an article summarizer that transforms lengthy articles into clear and concise summaries.
 
 ## Getting Started
